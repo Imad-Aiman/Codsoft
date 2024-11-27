@@ -11,15 +11,6 @@ Credit Card Fraud Detection
 
 Iris Flower Classification
 
-Installation
-
-Usage
-
-Contributing
-
-License
-
-Contact
 
 Introduction
 Welcome to my Data Science Projects repository. This repository showcases three key projects I've worked on during my internship with CodSoft, focusing on different aspects of data science and machine learning.
