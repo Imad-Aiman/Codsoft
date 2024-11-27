@@ -16,9 +16,9 @@ Iris Flower Classification
 
 Welcome to my Data Science Projects repository. This repository showcases three key projects I've worked on during my internship with CodSoft, focusing on different aspects of data science and machine learning.
 
-**Projects Overview
+**Projects Overview**
 
-Titanic Survival Prediction**
+Titanic Survival Prediction
 The Titanic Survival Prediction project aims to predict the survival chances of passengers on the Titanic using machine learning models. This project leverages historical passenger data to train and test predictive models.
 
 **Features**
